@@ -58,4 +58,5 @@ A curated list of the pages that matter when you are researching the CapCut API:
 
 Open a pull request with a link from an official CapCut page or a hands-on article about the API; one line per item, and say whether the page is documentation or a template.
 
+
 _Last reviewed: 2026-09-22_
